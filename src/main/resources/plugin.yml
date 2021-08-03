@@ -1,0 +1,8 @@
+name: Mobedit
+version: ${project.version}
+main: me.tofpu.mobedit.MobEdit
+api-version: 1.13
+authors: [ Tofpu ]
+commands:
+  mobedit:
+    permission: mobedit.reload
